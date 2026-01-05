@@ -6,7 +6,6 @@ x = Math.round(9.4);
 x = Math.round(4.7);
 
 x = Math.ceil(7.3); //this rounds up
-
 x = Math.floor(3.8); //this rounds down
 
 // power

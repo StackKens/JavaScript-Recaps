@@ -27,7 +27,7 @@ x = course.charAt(4); //s
 
 x = course[0]; //j
 
-x = course.indexOf('hello'); // this gives -1 for values tha do not exist
+x = course.indexOf('hello'); // this gives -1 for values that do not exist
 x = course.indexOf('script'); //4
 
 x = course.substring(4, 7); //starts from 4 and ends at 7
