@@ -1,4 +1,4 @@
-# JavaScript Recaps
+# JavaScript Fundamentals
 
 This repository contains JavaScript learning recap projects and notes
 while following Traversy Media and improving core JS skills.
