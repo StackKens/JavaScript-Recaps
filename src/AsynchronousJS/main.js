@@ -9,8 +9,7 @@ const displayDetails = () => {
     const data = document.createElement("div");
     data.innerHTML = `<p>I am   ${name}</p> <br/><p> I am a ${profession}</p> <p>I come from ${country}</p>   `;
     document.body.appendChild(data);
-    paragraph.appendChild(data);
-    console.log(`I am a ${profession}  `);
+    console.log(`I am a ${profession}`);
 
     setTimeout(() => {
       paragraph.style.color = "red";
