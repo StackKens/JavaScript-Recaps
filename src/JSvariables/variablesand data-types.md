@@ -55,8 +55,7 @@ x =x+1; here the value of x is added by 1 and then re-assigned and stored in the
 
 ## Primitive data-types
 
-These are basic immutable values that are stored directly in memory and are accessed and copied by value rather than by reference
-
+Primitive data types are immutable values that are copied by value, meaning each variable holds its own independent copy of the data.
 # Strings.
 
 these are simply data defined in a series of characters. they are enclosed by single or double quotes, but they have to match. NOT single quote at the start of the string and double quote at the end of the string. This will give a syntax error!
